@@ -113,7 +113,7 @@
 				active_link.parent().addClass("current");
 			}, 
 
-			offset: '25%'
+			offset: '50%'
 
 		});
 	};
